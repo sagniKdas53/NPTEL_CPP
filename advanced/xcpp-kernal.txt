@@ -1,0 +1,34 @@
+/usr/share/jupyter/kernels/
+
+jupyter kernelspec install PREFIX/share/jupyter/xcpp11 --sys-prefix
+jupyter kernelspec install PREFIX/share/jupyter/xcpp14 --sys-prefix
+jupyter kernelspec install PREFIX/share/jupyter/xcpp17 --sys-prefix
+
+
+jupyter kernelspec install /home/sagnik/miniconda3/pkgs/xeus-cling-0.13.0-h560cc44_1/share/jupyter/kernels/xcpp14/ --sys-prefix
+
+jupyter kernelspec install /home/sagnik/miniconda3/envs/cling/share/jupyter/kernels/xcpp14 --user
+
+jupyter kernelspec install /home/sagnik/miniconda3/envs/cling/share/jupyter/kernels/xcpp11 --user
+
+jupyter kernelspec install /home/sagnik/miniconda3/envs/cling/share/jupyter/kernels/xcpp17 --user
+
+
+
+https://notebooks.gesis.org/binder/jupyter/user/jupyter-xeus-xeus-cling-suynd9ft/doc/tree/notebooks/xcpp.ipynb
+https://xeus-cling.readthedocs.io/en/latest/installation.html#using-the-conda-forge-package
+https://conda-forge.org/docs/user/introduction.html
+https://cmake.org/cmake/help/v2.8.8/cmake.html#variable%3aCMAKE_INSTALL_PREFIX
+https://docs.conda.io/projects/conda/en/latest/user-guide/index.html
+https://blog.jupyter.org/interactive-workflows-for-c-with-jupyter-fe9b54227d92
+https://www.reddit.com/r/Arknuts/comments/puwp2s/angel_on_top/
+https://i.redd.it/nw6egcz7zip71.jpg
+https://mail.google.com/mail/u/0/#inbox
+https://varhowto.com/install-miniconda-ubuntu-20-04/
+https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html
+https://jupyter.readthedocs.io/en/latest/install/kernels.html
+https://jupyter-client.readthedocs.io/en/latest/kernels.html#kernels
+https://xeus.readthedocs.io/en/latest/kernel_implementation.html
+https://www.google.com/search?q=miniconda+use+xeus+kernel&oq=miniconda+use+xeus+kernel&aqs=chrome..69i57.11629j0j7&sourceid=chrome&ie=UTF-8
+https://github.com/jupyter-xeus/xeus-cling/issues/246
+https://xeus-cling.readthedocs.io/en/latest/installation.html#installing-the-kernel-spec
