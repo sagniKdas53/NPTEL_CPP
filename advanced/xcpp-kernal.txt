@@ -21,14 +21,10 @@ https://conda-forge.org/docs/user/introduction.html
 https://cmake.org/cmake/help/v2.8.8/cmake.html#variable%3aCMAKE_INSTALL_PREFIX
 https://docs.conda.io/projects/conda/en/latest/user-guide/index.html
 https://blog.jupyter.org/interactive-workflows-for-c-with-jupyter-fe9b54227d92
-https://www.reddit.com/r/Arknuts/comments/puwp2s/angel_on_top/
-https://i.redd.it/nw6egcz7zip71.jpg
-https://mail.google.com/mail/u/0/#inbox
 https://varhowto.com/install-miniconda-ubuntu-20-04/
 https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html
 https://jupyter.readthedocs.io/en/latest/install/kernels.html
 https://jupyter-client.readthedocs.io/en/latest/kernels.html#kernels
 https://xeus.readthedocs.io/en/latest/kernel_implementation.html
-https://www.google.com/search?q=miniconda+use+xeus+kernel&oq=miniconda+use+xeus+kernel&aqs=chrome..69i57.11629j0j7&sourceid=chrome&ie=UTF-8
 https://github.com/jupyter-xeus/xeus-cling/issues/246
 https://xeus-cling.readthedocs.io/en/latest/installation.html#installing-the-kernel-spec
